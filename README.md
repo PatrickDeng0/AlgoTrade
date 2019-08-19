@@ -3,7 +3,7 @@ Quant Strategy I used in National Contest of Intelligent Trading
 
 Author: Weijie Deng
 
-As the API instruction, please refer to the link below:
+In the contest, we used RiceQuant as the platform for algorithm trading. As for the API instruction or for test, please refer to the link below:
 
 https://www.ricequant.com/doc/api/python/chn
 
