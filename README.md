@@ -1,7 +1,7 @@
 # AlgoTrade
 Quant Strategy @ National Contest of Intelligent Trading 2018
 
-Author: Weijie Deng
+Author: Weijie Deng, Yunfeng Yan
 
 It was the strategy I used in National Contest of Intelligent Trading 2018, hosted by Yintech and Xinhua News. Our team was called 自由无用. You can check the authenticity at the link below:
 
